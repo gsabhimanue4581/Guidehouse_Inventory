@@ -187,7 +187,7 @@ HomeScreen As screen:
         PressedColor: =TextBox1.Color
         PressedFill: =TextBox1.Fill
         Size: =22
-        Text: ="Store Inventory Module"
+        Text: ="Store Inventory Module XXX"
         Width: =363
         X: =110
         Y: =30
