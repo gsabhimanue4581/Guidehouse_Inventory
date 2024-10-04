@@ -180,6 +180,7 @@ HomeScreen As screen:
         BorderColor: =RGBA(0, 0, 0, 1)
         Color: =RGBA(255, 255, 255, 1)
         Font: =Font.Lato
+        Height: =35
         HoverBorderColor: =TextBox1.BorderColor
         HoverColor: =TextBox1.Color
         HoverFill: =TextBox1.Fill
@@ -188,7 +189,7 @@ HomeScreen As screen:
         PressedFill: =TextBox1.Fill
         Size: =22
         Text: ="Store Inventory Module XXX"
-        Width: =363
+        Width: =416
         X: =110
         Y: =30
         ZIndex: =5
